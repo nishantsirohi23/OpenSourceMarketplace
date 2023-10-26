@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat:400,800");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+  background-color: 'black';
+}
+.table-container {
+  width: 100%;
+  overflow-x: auto; /* Enable horizontal scrolling if needed */
+}
+
+.task-table {
+  width: 100%;
+  border-collapse: collapse; /* Collapse table borders */
+}
+
+.task-table th,
+.task-table td {
+  border: 1px solid #ddd; /* Add a border to table cells */
+  padding: 8px;
+  text-align: left;
+}
+
+.task-table th {
+  background-color: #E80F88;
+}
+
+/* Adjust the width of the Description column */
+.task-table td:nth-child(2) {
+  width: 40%;
+}
+
