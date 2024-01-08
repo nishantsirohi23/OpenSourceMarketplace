@@ -1,4 +1,4 @@
-# OpenSourceMarketplace - Marketplace for Open Source Projects
+# OpenSpace - Marketplace for Open Source Projects
 <img width="1423" alt="Screenshot 2023-12-13 at 8 44 05 PM" src="https://github.com/nishantsirohi23/ForkFusion/assets/68343049/b06c62d9-7e67-452e-b66e-d560f05a6588">
 
 
